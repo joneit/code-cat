@@ -1,0 +1,22 @@
+{
+  "name": "object-catalog",
+  "version": "1.1.2",
+  "description": "Catalog the execution context object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joneit/object-catalog.git"
+  },
+  "author": "Jonathan Eiten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joneit/object-catalog/issues"
+  },
+  "homepage": "https://github.com/joneit/object-catalog#readme",
+  "dependencies": {
+    "greylist": "^2.1.0"
+  }
+}
